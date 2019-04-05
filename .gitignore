@@ -1,4 +1,6 @@
 # Ignore configuration files that may contain sensitive information.
+phpMyAdmin
+phpMyAdmin/*
 sites/*/*settings*.php
 sites/default/settings.php
 sites/default/services.yml
@@ -10,6 +12,7 @@ sites/*
 sites/default/local.services.yml
 sites/settings.local.php
 sites/default
+sites/default/settings.php
 sites/*/files
 sites/*/private
 
