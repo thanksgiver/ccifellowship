@@ -45,8 +45,8 @@ sites/*/private
 # /scripts
 # /themes
 
-/vendor
-/vendor/*/*
+vendor
+vendor/*
 node_modules
 database
 
