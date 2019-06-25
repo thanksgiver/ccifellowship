@@ -47,6 +47,10 @@ sites/*/private
 
 vendor
 vendor/*
+
+vendor
+vendor/*/*
+
 node_modules
 database
 
